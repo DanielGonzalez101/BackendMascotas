@@ -1,6 +1,6 @@
-package com.example.backend.MicroservicioDueño.Repository;
+package com.example.backend.MicroservicioDueno.Repository;
 
-import com.example.backend.MicroservicioDueño.Modelo.Dueno;
+import com.example.backend.MicroservicioDueno.Modelo.Dueno;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

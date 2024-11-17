@@ -1,4 +1,4 @@
-package com.example.backend.MicroservicioDueño.Exception;
+package com.example.backend.MicroservicioDueno.Exception;
 
 public class DuenoNotFoundException extends RuntimeException {
     public DuenoNotFoundException(String msg){
